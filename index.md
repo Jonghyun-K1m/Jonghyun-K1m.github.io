@@ -6,12 +6,12 @@ layout: default
 
 >tester
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| days        | OBJECT         | DONE | TO-DO  |
+|:-------------|:------------------|:------|:------|
+| 6m2w          | 게시판완성 | DB삽입  | 개념정리  |
+| out of stock | good and plenty   | nice  | nice  |
+| ok           | good `oreos`      | hmm   | nice  |
+| ok           | good `zoute` drop | yumm  | nice  |
 
 
 ```
